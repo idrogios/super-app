@@ -5,6 +5,9 @@ public class MainClass {
 		System.out.println("Hello World, again!");
 		NewFeatureAdded nfa = new NewFeatureAdded();
 		nfa.foo();
+		
+		BigIdea bgi = new BigIdea();
+		bgi.bar();
 	}
 	
 	
