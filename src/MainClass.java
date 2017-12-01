@@ -5,6 +5,8 @@ public class MainClass {
 		System.out.println("Hello World, again!");
 	}
 	
-	
+	public void foo(){
+		System.out.println("Hello from foo method");
+	}
 }
 
