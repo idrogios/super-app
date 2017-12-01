@@ -6,7 +6,7 @@ public class MainClass {
 		foo();
 	}
 	
-	public void foo(){
+	public static void foo(){
 		System.out.println("Hello from foo method");
 	}
 }
